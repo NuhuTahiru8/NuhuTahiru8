@@ -1,9 +1,9 @@
-<h1>Hi, I'm Nuhu Tahiru! <br/><a href="https://github.com/joshmadakor1">Programmer and</a> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Nuhu Tahiru! <br/><a href="https://github.com/joshmadakor1">This is my little contribution to the</a> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity community</a></h1>
 
-<h2>👨‍💻 Tools and Software Development Projects:</h2>
+<h2>👨‍💻 Tools and cybersecurity Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Learning Resources and Tools</b>
+  - [Tools for learning Ethical Hacking](https://github.com/NuhuTahiru8/Learning-Tools)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
