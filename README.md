@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Tools and cybersecurity Development Projects:</h2>
 
+- <b>Breif Story About Me</b>
+ - [The Three **How** That Got Me Into Computer.](https://github.com/NuhuTahiru8/Learning-Tools)
+
 - <b>Learning Resources and Tools</b>
   - [Tools for learning Ethical Hacking](https://github.com/NuhuTahiru8/Learning-Tools)
 - <b>Building Your Own Cybersecurity Lab with different Distro!</b>
@@ -44,7 +47,7 @@
 
 
 <!---
-- 👋 Hi, I’m @Nuhu-Tahiru8
+- 👋 Hi, I’m @NuhuTahiru8
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
