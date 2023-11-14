@@ -3,8 +3,7 @@
 <h2>👨‍💻 Tools and cybersecurity Development Projects:</h2>
 
 - <b>Breif Story About Me</b>
- - [The Three **How** That Got Me Into Computer.](https://github.com/NuhuTahiru8/Learning-Tools)
-
+  - [The Three **How** That Got Me Into Computer.](https://github.com/NuhuTahiru8/Curiosity)
 - <b>Learning Resources and Tools</b>
   - [Tools for learning Ethical Hacking](https://github.com/NuhuTahiru8/Learning-Tools)
 - <b>Building Your Own Cybersecurity Lab with different Distro!</b>
