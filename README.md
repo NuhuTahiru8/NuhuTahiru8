@@ -9,8 +9,7 @@
 - <b>Building Your Own Cybersecurity Lab with different Distro!</b>
   - [Linux Distro for Hacking](https://github.com/NuhuTahiru8/Hacking-LAB) <b><i>(Terminal)</b></i>
 - <b>PowerShell, Bash, and Python Resources</b>
-  - [Scripting Languages](https://github.com/NuhuTahiru8/Powershell-and-Bash)
-    
+  - [Learn to create Tools with Scripting Languages](https://github.com/NuhuTahiru8/Powershell-and-Bash)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
