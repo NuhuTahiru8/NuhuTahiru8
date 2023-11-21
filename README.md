@@ -10,10 +10,8 @@
   - [Linux Distro for Hacking](https://github.com/NuhuTahiru8/Hacking-LAB) <b><i>(Terminal)</b></i>
 - <b>PowerShell, Bash, and Python Resources</b>
   - [Learn to create Tools with Scripting Languages](https://github.com/NuhuTahiru8/Powershell-and-Bash)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>WebPhiXh</b>
+  - [Phishing tool(Bypass otp)](https://github.com/NuhuTahiru8/WebPhiXH)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
