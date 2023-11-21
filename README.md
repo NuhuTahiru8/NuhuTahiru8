@@ -10,7 +10,7 @@
   - [Linux Distro for Hacking](https://github.com/NuhuTahiru8/Hacking-LAB) <b><i>(Terminal)</b></i>
 - <b>PowerShell, Bash, and Python Resources</b>
   - [Learn to create Tools with Scripting Languages](https://github.com/NuhuTahiru8/Powershell-and-Bash)
-- <b>WebPhiXh</b>
+- <b>WebPhiXH</b>
   - [Phishing tool(Bypass otp)](https://github.com/NuhuTahiru8/WebPhiXH)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
